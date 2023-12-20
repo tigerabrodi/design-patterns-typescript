@@ -1,8 +1,8 @@
 # Design Patterns in TypeScript
 
-Built and documented design patterns in TypeScript.
+Just playing around with design patterns in TypeScript.
 
-My aim here isn't just the technical aspect, but understanding the problems that each pattern solves and when to use them.
+Referring to [Patterns Vanilla JS](https://www.patterns.dev/vanilla).
 
 ## Wait, what is a design pattern?
 
@@ -16,4 +16,4 @@ Look in the `src` folder.
 
 Inside it, you'll find all the different patterns.
 
-I've tried to introduce each pattern with a "zoom out" approach. First, I'll give you some back story where we encounter the problem that the pattern solves. Then, I'll show you the code that solves it. Finally, I'll explain the pattern in detail.
+I'm just playing around with code to get a better understanding of the patterns.
