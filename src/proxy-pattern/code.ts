@@ -1,3 +1,5 @@
+/** Proxy Pattern */
+
 interface Person {
   name: string
   age: number
